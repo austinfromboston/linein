@@ -1,0 +1,9 @@
+---
+:stasi: 
+  :key: b0att0ch1n@134238s7ck4
+  :url: "https://local-stasi.org/api/"
+  :default_user: david
+:aquarius: 
+  :key: b0att0ch1n@134238s7ck4
+  :url: "https://local-aquarius.org/api/"
+  :default_user: david
